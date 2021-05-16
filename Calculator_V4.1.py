@@ -1,7 +1,7 @@
 """
 </>
-Date: 
-Time: 
+Date: 3:33
+Time: 05.16.2021
 Programmer: Mehroj Majidov
 Github: https://github.com/MehrojOfficial
 Title: "Calculator (SFF/DFF)"
