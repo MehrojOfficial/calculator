@@ -7,8 +7,6 @@ This calculator program is a simple but perfect program created using the ******
 
 This program has a convenient and compact user interface. It consists of a few **Buttons** and an **Entry** which displays the result.
 
-![Appearance of the program](https://dl.uploadgram.me/60a0e82d159b9h?raw)
-
 ## Features
 
 This program consists of two parts (**SFF** and **DFF**). 
@@ -17,13 +15,9 @@ This program consists of two parts (**SFF** and **DFF**).
  
 **SFF mode** only supports easy and short mathematical expressions. SFF mode is simple and only for short expressions. It supports **4 mathematical operations** (plus, minus, multiply, divide) and additional two availabilities *root* and *square root*.
 
-![SFF mode](https://dl.uploadgram.me/60a0ed6f86421h?raw)
-
  2. **DFF mode**
 
 **DFF mode** is more perfectly structured. Can solve both complex and long mathematical expressions. **DFF mode**, like *SFF mode*, supports 4 mathematical operations, root and square root. But it is also possible to solve complex expressions in *parentheses* using **DFF mode** (this option is not supported by other many calculator programs).
-
-![DFF mode](https://dl.uploadgram.me/60a0f130c139bh?raw)
 
 ## Hotkeys
 
