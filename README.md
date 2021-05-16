@@ -30,6 +30,6 @@ This program consists of two parts (**SFF** and **DFF**).
 
 # PROGRAMMER:
 
-> PROGRAMMER: **MEHROJ MAJIDOV**
-> Github: https://github.com/MehrojOfficial
-> Title: "Calculator (SFF/DFF)
+> PROGRAMMER: **MEHROJ MAJIDOV** | 
+> Github: https://github.com/MehrojOfficial | 
+> Title: Calculator (SFF/DFF)
