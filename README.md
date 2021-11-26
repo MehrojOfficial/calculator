@@ -28,7 +28,7 @@ This program consists of two parts (**SFF** and **DFF**).
  - **Escape** - Exit the program
 
 
-# PROGRAMMER:
+# Developer:
 
 > PROGRAMMER: **MEHROJ MAJIDOV** | 
 > Github: https://github.com/MehrojOfficial | 
